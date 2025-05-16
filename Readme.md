@@ -52,3 +52,7 @@ Differential Evolution offers a global search perspective, which can sometimes p
 - `handwritten_samples/`: Folder for test images (you can add your own)
 
 ---
+
+## 📊 Loss Comparison: Gradient Descent vs Differential Evolution
+
+![Loss Comparison](assets/plots.png)
